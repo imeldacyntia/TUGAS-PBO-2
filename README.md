@@ -35,3 +35,6 @@ Kode program yang telah dibuat merupakan implementasi dari beberapa kelas yang s
     - init(self, nama_universitas): Merupakan constructor yang digunakan untuk menginisialisasi objek Universitas dengan nama universitas.
     - tambah_jurusan(self, jurusan): Metode ini digunakan untuk menambahkan objek Jurusan ke dalam daftar jurusan pada universitas tersebut.
     - tampilkan_daftar_jurusan(self): Metode ini digunakan untuk menampilkan daftar jurusan yang ada di universitas.
+    
+   Berikut ini merupakan hasil outputan pada kode program yang telah dibuat: 
+   https://github.com/imeldacyntia/TUGAS-PBO-2/issues/1#issue-1735753938
