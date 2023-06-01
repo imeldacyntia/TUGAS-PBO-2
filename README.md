@@ -37,4 +37,4 @@ Kode program yang telah dibuat merupakan implementasi dari beberapa kelas yang s
     - tampilkan_daftar_jurusan(self): Metode ini digunakan untuk menampilkan daftar jurusan yang ada di universitas.
     
    Berikut ini merupakan hasil outputan pada kode program yang telah dibuat: 
-   https://github.com/imeldacyntia/TUGAS-PBO-2/issues/1#issue-1735753938
+   <img width="297" alt="image" src="https://github.com/imeldacyntia/TUGAS-PBO-2/assets/95126142/bb7b7490-e497-42a4-bdee-bb6b16e0df9d">
